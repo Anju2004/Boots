@@ -1,0 +1,23 @@
+.card-title{
+    text-align: center;
+    padding-top: 15%;
+    
+}
+
+.card-text{
+    text-align: center;
+
+}
+.row{
+    padding-top: 1%;
+    
+}
+.row .col .card {
+    size: 15rem;
+}
+
+.card-title1{
+    text-align: center;
+    padding-top: 5%;
+}
+   
